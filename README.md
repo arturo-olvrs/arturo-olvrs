@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo Olivares Martos</h1>
-- 🔭 I’m currently studying on **Computer Science and Mathematics at UGR**
+<h3 align="center">I'm from Spain</h3>
+
+- 🔭 I’m currently studying **Computer Science and Mathematics at UGR**
 
 - 📫 How to reach me **2004.olivares@gmail.com**
 
