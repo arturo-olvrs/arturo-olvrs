@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently studying **Computer Science and Mathematics at UGR**
 
-- 📫 How to reach me **2004.olivares@gmail.com**
+- 📫 How to reach me:
+  * **2004.olivares@gmail.com**
+  * **arturoolivares@correo.ugr.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
