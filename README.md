@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arturo Olivares Martos</h1>
-<h3 align="center">I'm from Spain</h3>
+<h1>Arturo Olivares Martos</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturo-olvrs&label=Profile%20views&color=0e75b6&style=flat" alt="arturo-olvrs" /> </p>
 
