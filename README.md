@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arturo-olvrs" alt="arturo-olvrs" /></a> </p>
 
-- 🔭 I’m currently studying **omputer Science and Mathematics at UGR.**
+- 🔭 I’m currently studying **Computer Science and Mathematics at UGR.**
 
 - 👨‍💻 Everything about my degree is at [losdeldgiim.github.io](losdeldgiim.github.io)
 
