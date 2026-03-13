@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying **Computer Science and Mathematics at UGR.**
 
-- 👨‍💻 Everything about my degree is at [losdeldgiim.github.io](losdeldgiim.github.io)
+- 👨‍💻 Everything about my degree is at [LosDelDgiim.github.io](www.losdeldgiim.github.io)
 
 - 📫 How to reach me
   - **2004.olivares@gmail.com**
