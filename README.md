@@ -1,27 +1,72 @@
-<h1>Arturo Olivares Martos</h1>
+# ¡Hola! Soy Arturo Olivares Martos 👋
 
-- 🔭 I’m currently studying **Computer Science and Mathematics at UGR.**
-
-- 👨‍💻 Everything about my degree is at [LosDelDgiim.github.io](https://losdeldgiim.github.io/)
-
-- 📫 How to reach me
-  - **2004.olivares@gmail.com**
-  - **arturoolivares@correo.ugr.es**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/arturo.olvrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arturo.olvrs" height="30" width="40" /></a>
+  <a href="[https://linkedin.com/in/TU_LINKEDIN_AQUÍ](https://www.linkedin.com/in/arturo-olivares-martos-4ba54b40a/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/arturo.olvrs" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+---
 
-<p align="center"> 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=arturo-olvrs&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="arturo-olvrs" />
-</p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=arturo-olvrs&show_icons=true&theme=tokyonight" alt="arturo-olvrs" />
-</p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturo-olvrs&layout=compact&theme=tokyonight" alt="arturo-olvrs" />
-</p>
+### 🚀 Sobre mí
+
+*   🎓 Actualmente estudiando el **Doble Grado en Ingeniería Informática y Matemáticas (DGIIM)** en la **Universidad de Granada (UGR)**.
+*   👨‍💻 Todo el material, apuntes y proyectos de mi carrera están centralizados en **[LosDelDgiim.github.io](https://losdeldgiim.github.io/)**.
+*   🧠 Me apasiona la intersección entre el rigor matemático y la resolución de problemas mediante software.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### Lenguajes y Backend
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+#### Frontend y Diseño
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=black)
+
+#### Entornos y Hardware
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+<h3 align="left">📊 Mis Estadísticas de GitHub</h3>
+
+<div align="center">
+  <table style="margin: 0 auto; border-collapse: collapse;" border="0">
+    <tr>
+      <td style="padding: 5px;">
+        <img height="170px" src="https://github-readme-streak-stats-pxa6.vercel.app/?user=arturo-olvrs&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak de Arturo"/>
+      </td>
+      <td style="padding: 5px;">
+        <img height="170px" src="https://readme-ruby.vercel.app/api/top-langs/?username=arturo-olvrs&layout=compact&theme=tokyonight" alt="Lenguajes más usados de Arturo"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding: 5px;">
+        <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arturo-olvrs&show_icons=true&theme=tokyonight" alt="GitHub Stats de Arturo"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📫 Contacto
+
+Si quieres colaborar en algún proyecto o simplemente contactar conmigo, puedes encontrarme en:
+*   📩 **Personal:** [2004.olivares@gmail.com](mailto:2004.olivares@gmail.com)
+*   🎓 **Institucional:** [arturoolivares@correo.ugr.es](mailto:arturoolivares@correo.ugr.es)
