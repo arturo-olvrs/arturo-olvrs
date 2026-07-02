@@ -1,7 +1,7 @@
 # ¡Hola! Soy Arturo Olivares Martos 👋
 
 <p align="left">
-  <a href="[https://linkedin.com/in/TU_LINKEDIN_AQUÍ](https://www.linkedin.com/in/arturo-olivares-martos-4ba54b40a/)" target="_blank">
+  <a href=[https://www.linkedin.com/in/arturo-olivares-martos-4ba54b40a/](https://www.linkedin.com/in/arturo-olivares-martos-4ba54b40a/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/arturo.olvrs" target="_blank">
